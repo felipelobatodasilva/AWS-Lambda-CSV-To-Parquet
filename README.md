@@ -40,4 +40,10 @@ With its download finished up, you may see something like this below:
 
 <img src="https://user-images.githubusercontent.com/69978184/144772002-d6d30532-927a-4a94-90b9-51932791a2e5.png" width="800" height="400"/>
 
+Hence, you click on "Create Lambda SAM Application" and keep following the steps below.
+
+<img src="https://user-images.githubusercontent.com/69978184/144772002-d6d30532-927a-4a94-90b9-51932791a2e5.png" width="800" height="400"/>
+
+<img src="https://user-images.githubusercontent.com/69978184/144772754-bab0a84b-d5e9-4a7b-82d4-d6cf2cbc683c.png" width="600" height="400"/>
+
 
