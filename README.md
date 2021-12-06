@@ -34,4 +34,10 @@ Once you've already followed the step-by-step guide above, if you acess your VSC
 
 It means that the connection between cloud and local machine has been completed Successfully.
 
-The next step you may need to download the [AWS SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html)
+The next step you may need to download the [AWS SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html).
+
+With its download finished up, you may see something like this below:
+
+<img src="https://user-images.githubusercontent.com/69978184/144772002-d6d30532-927a-4a94-90b9-51932791a2e5.png" width="800" height="400"/>
+
+
