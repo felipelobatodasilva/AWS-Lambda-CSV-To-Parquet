@@ -46,4 +46,4 @@ Hence, you click on "Create Lambda SAM Application" and keep following the steps
 
 <img src="https://user-images.githubusercontent.com/69978184/144772754-bab0a84b-d5e9-4a7b-82d4-d6cf2cbc683c.png" width="600" height="400"/>
 
-<img src="https://user-images.githubusercontent.com/69978184/144772883-933aad3e-2203-49c0-8ba4-a920191028c6.png" width="500" height="400"/>
+<img src="https://user-images.githubusercontent.com/69978184/144772883-933aad3e-2203-49c0-8ba4-a920191028c6.png" width="600" height="250"/>
