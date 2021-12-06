@@ -49,3 +49,9 @@ Hence, you click on "Create Lambda SAM Application" and keep following the steps
 <img src="https://user-images.githubusercontent.com/69978184/144772883-933aad3e-2203-49c0-8ba4-a920191028c6.png" width="600" height="250"/>
 
 <img src="https://user-images.githubusercontent.com/69978184/144772987-15fb2090-42cc-41df-b834-4ebbfb3a5d5c.png" width="600" height="250"/>
+
+For this project has been decided to use three libraries, which are:
+
+1) AWSWrangler
+2) Boto3
+3) Pandas
