@@ -4,6 +4,8 @@
 
 ● [Overview](#overview)<br/>
 
+● [Using Lambda On Your Local Machine](#usinglambda)<br/>
+
 ## Overview <a name="overview"></a>
 
 [__Lambda__](https://www.dynatrace.com/news/blog/what-is-aws-lambda-2/) -> What is AWS Lambda?
@@ -11,4 +13,5 @@ AWS Lambda is a serverless compute service that can run code in response to pred
 
 Organizations are realizing the cost savings and management benefits of serverless automation. But with the benefits also come concerns about observability, and how to monitor and manage ever-expanding cloud software stacks.
 
+## Using Lambda On Your Local Machine <a name="usinglambda"></a>
 
