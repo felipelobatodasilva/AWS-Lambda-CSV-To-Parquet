@@ -56,4 +56,4 @@ For this project has been decided to use three libraries, which are:
 2) Boto3
 3) Pandas
 
-<img src="https://user-images.githubusercontent.com/69978184/144774523-0083e9ab-dd44-4761-9e8e-a59d6f9b49ea.png" width="600" height="250"/>
+<img src="https://user-images.githubusercontent.com/69978184/144774523-0083e9ab-dd44-4761-9e8e-a59d6f9b49ea.png" width="600" height="400"/>
