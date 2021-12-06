@@ -5,6 +5,7 @@
 ● [Overview](#overview)<br/>
 
 ● [Using Lambda On Your Local Machine](#usinglambda)<br/>
+&emsp;◌ [AWS Toolkit for Visual Studio Code](#awstoolkit)<br/>
 
 ## Overview <a name="overview"></a>
 
@@ -14,4 +15,8 @@ AWS Lambda is a serverless compute service that can run code in response to pred
 Organizations are realizing the cost savings and management benefits of serverless automation. But with the benefits also come concerns about observability, and how to monitor and manage ever-expanding cloud software stacks.
 
 ## Using Lambda On Your Local Machine <a name="usinglambda"></a>
+
+### AWS Toolkit for Visual Studio Code <a name="awstoolkit"></a>
+
+
 
