@@ -103,6 +103,11 @@ To create a Lambda layer, complete the following steps
 ### Creating Lambda Function <a name="creatinglambdafunction"></a>
 
 For this step you must click on "Functions" which is on the left side
+
+<img src="https://user-images.githubusercontent.com/69978184/145731091-e219edec-b0c8-42e1-af8e-dc461383b650.png" width="800" height="400"/>
+
+
+
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
 https://www.youtube.com/watch?v=X7Ji2UwRCKI
