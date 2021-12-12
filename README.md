@@ -81,6 +81,7 @@ Once you've already accessed the Lambda section, you must click on layers which 
 
 and then, click on "Create layers"
 
+
 <img src="https://user-images.githubusercontent.com/69978184/145729882-e87864a2-1def-41c7-81de-ed894c322117.png" width="800" height="400"/>
 
 To create a Lambda layer, complete the following steps
@@ -90,6 +91,9 @@ To create a Lambda layer, complete the following steps
 3. Click on Upload, and select the path where the zip file is
 4. For Compatible runtimes, choose Python 3.6.
 5. Click on Create.
+
+<img src="https://user-images.githubusercontent.com/69978184/145730774-a0bf70c6-f088-4c4c-b2e3-962e396b15f8.png" width="800" height="400"/>
+
 
 
 <!-- 
