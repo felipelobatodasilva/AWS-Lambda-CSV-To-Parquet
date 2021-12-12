@@ -65,7 +65,11 @@ For this project has been decided to use three libraries, which are:
 
 Before setting up the layers you've got to go through AWS Console Management and click on Lambda or look for Lambda to get started.
 
+<img src="https://user-images.githubusercontent.com/69978184/145729245-bbc9532a-133b-462d-8301-b39ff6f398cd.png" width="600" height="400"/>
+
 ### Setting up Layers <a name="settinguplayers"></a>
+
+Once you've already accessed the Lambda section
 
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
