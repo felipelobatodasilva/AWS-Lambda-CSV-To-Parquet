@@ -144,7 +144,7 @@ To increase the lambda timeout setting, complete the following steps
 To add appropriate permissions for this Lambda function to read and write Amazon S3 objects, complete the following steps:
 
 1. On the permission table, under Permissions, click on "conversion-csv-to-parquet-role-jnui0vec" to be redirected to IAM roles for that role name
-<img src="https://user-images.githubusercontent.com/69978184/145732720-2296e346-0164-4e02-9d45-4eda91853683.png" width="1000" height="400"/>
+<img src="https://user-images.githubusercontent.com/69978184/145732720-2296e346-0164-4e02-9d45-4eda91853683.png" width="1000" height="400"/><br/>
 2. On the AWS Identity and Access Management (IAM) console, click on Policies
 3. Click on Create Policy.
 4. On the JSON tab, enter the following policy (replace the target bucket name arn:aws:s3:::lambdaconvertion* with your own bucket name).
@@ -173,8 +173,6 @@ To add appropriate permissions for this Lambda function to read and write Amazon
 }
 -->
 
-<img src="https://user-images.githubusercontent.com/69978184/145732720-2296e346-0164-4e02-9d45-4eda91853683.png" width="1000" height="400"/>
-<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145733057-af9ca04a-69b5-4ef3-a021-31a0e89202b0.png" width="600" height="400"/>
 <br/>
 <img src="https://user-images.githubusercontent.com/69978184/145733116-0971b056-0a70-4615-8dff-6955e28c810f.png" width="600" height="400"/>
