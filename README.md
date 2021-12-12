@@ -123,6 +123,7 @@ To create a Lambda function and trigger an Amazon S3 event, complete the followi
 
 <img src="https://user-images.githubusercontent.com/69978184/145731675-f3876ff5-175e-4b57-ae35-bc283ceb97aa.png" width="1000" height="600"/>
 
+<img src="https://user-images.githubusercontent.com/69978184/145731722-a54a1648-e3ad-4781-9525-59ec95d720b2.png" width="1000" height="600"/>
 
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
