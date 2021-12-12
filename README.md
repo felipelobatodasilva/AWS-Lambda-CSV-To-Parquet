@@ -81,8 +81,7 @@ Once you've already accessed the Lambda section, you must click on layers which 
 
 then click on "Create layers"
 
-<img src="https://user-images.githubusercontent.com/69978184/145729814-e7d092ae-d538-4087-9e4d-6f6180cc9698.png" width="800" height="600"/>
-
+<img src="https://user-images.githubusercontent.com/69978184/145729882-e87864a2-1def-41c7-81de-ed894c322117.png" width="800" height="400"/>
 
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
