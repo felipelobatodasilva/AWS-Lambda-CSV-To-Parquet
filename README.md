@@ -147,7 +147,7 @@ To add appropriate permissions for this Lambda function to read and write Amazon
 2. On the AWS Identity and Access Management (IAM) console, click on Policies
 3. Click on Save.
 
-<img src="https://user-images.githubusercontent.com/69978184/145732720-2296e346-0164-4e02-9d45-4eda91853683.png" width="1000" height="600"/>
+<img src="https://user-images.githubusercontent.com/69978184/145732720-2296e346-0164-4e02-9d45-4eda91853683.png" width="1000" height="800"/>
 
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
