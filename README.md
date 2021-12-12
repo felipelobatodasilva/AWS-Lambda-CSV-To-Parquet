@@ -129,7 +129,7 @@ To create a Lambda function and trigger an Amazon S3 event, complete the followi
 To increase the lambda timeout setting, complete the following steps
 
 1. Go to the Configuration tab, under General configuration, choose edit<br/>
-<img src="https://user-images.githubusercontent.com/69978184/145731942-f2fe330b-b7b1-4c1e-ac55-c8afe0d3c7f0.png" width="1000" height="600"/>
+<img src="https://user-images.githubusercontent.com/69978184/145731942-f2fe330b-b7b1-4c1e-ac55-c8afe0d3c7f0.png" width="1000" height="600"/><br/>
 2. Set 30 sec as Timeout<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145732117-d1c2073b-2e40-4fb8-91a4-e292edf04017.png" width="400" height="400"/><br/>
 4. Click on Save.
