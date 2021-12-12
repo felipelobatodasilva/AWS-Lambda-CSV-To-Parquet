@@ -69,11 +69,16 @@ Before setting up the layers you've got to go through AWS Console Management and
 
 ### Setting up Layers <a name="settinguplayers"></a>
 
+Before, keep going let's understand a little about what is Lambda Layer.
+
+A [Lambda layer](https://aws.amazon.com/blogs/compute/using-lambda-layers-to-simplify-your-development-process/) is an archive containing additional code, such as libraries, dependencies, or even custom runtimes. When you include a layer in a function, the contents are extracted to the /opt directory in the execution environment.
+
+Now you have some idea about what is, let is keep setting it up.
+
 Once you've already accessed the Lambda section, you must click on layers which is on the right side
 
 <img src="https://user-images.githubusercontent.com/69978184/145729461-9c11b1e3-a45b-4b7e-9cbf-791e95916c3d.png" width="800" height="400"/>
 
-A [Lambda layer](https://aws.amazon.com/blogs/compute/using-lambda-layers-to-simplify-your-development-process/) is an archive containing additional code, such as libraries, dependencies, or even custom runtimes. When you include a layer in a function, the contents are extracted to the /opt directory in the execution environment.
 
 <img src="https://user-images.githubusercontent.com/69978184/145729578-b04030cb-6ff0-4956-a431-cf11defd3b92.png" width="800" height="400"/>
 
