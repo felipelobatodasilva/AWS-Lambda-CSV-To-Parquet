@@ -197,7 +197,7 @@ To check files in s3, complete the following steps:
 <img src="https://user-images.githubusercontent.com/69978184/145734537-45a84946-6b3b-420a-b6b5-2b27238324c0.png" width="600" height="400"/><br/>
 3. Create output folder in the "lambdaconvertion" bucket<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145734575-af7298b4-b87c-44c9-8ff2-fcad5ce576c2.png" width="600" height="400"/><br/>
-4. Upload CSV file into input folder
+4. Upload CSV file into input folder<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145734739-f195d5bf-805d-4abe-984c-a47f464a93fb.png" width="600" height="400"/><br/>
 
 
