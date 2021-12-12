@@ -158,7 +158,7 @@ To add appropriate permissions for this Lambda function to read and write Amazon
 8. To finish it up, click on Create policy<br/>
 9. On policies section on the search field, look for the recent policy created<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145733406-b945e834-5fc5-4db1-af9c-32f1c339ba10.png" width="600" height="400"/>
-10. Click on it
+10. Click on it<br/>
 11. Click on Policy usage and then on attach<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145733821-b66c3555-88bb-4274-985c-19e56a54b2c5.png" width="600" height="400"/>
 
