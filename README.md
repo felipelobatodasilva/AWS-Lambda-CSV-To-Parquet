@@ -193,6 +193,9 @@ There will be many different buckets, perhaps. Select "lambdaconvertion" and cre
 
 <img src="https://user-images.githubusercontent.com/69978184/145734423-f54f6a8d-53dd-44e7-a43d-cfacf15b9c06.png" width="800" height="600"/>
 
+<img src="https://user-images.githubusercontent.com/69978184/145734537-45a84946-6b3b-420a-b6b5-2b27238324c0.png" width="800" height="600"/>
+
+
 
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
