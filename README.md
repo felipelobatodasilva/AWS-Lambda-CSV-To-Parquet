@@ -65,12 +65,19 @@ For this project has been decided to use three libraries, which are:
 
 Before setting up the layers you've got to go through AWS Console Management and click on Lambda or look for Lambda to get started.
 
-<img src="https://user-images.githubusercontent.com/69978184/145729245-bbc9532a-133b-462d-8301-b39ff6f398cd.png" width="600" height="400"/>
+<img src="https://user-images.githubusercontent.com/69978184/145729245-bbc9532a-133b-462d-8301-b39ff6f398cd.png" width="800" height="400"/>
 
 ### Setting up Layers <a name="settinguplayers"></a>
 
-Once you've already accessed the Lambda section
+Once you've already accessed the Lambda section, you must click on layers which is on the right side
 
+<img src="https://user-images.githubusercontent.com/69978184/145729461-9c11b1e3-a45b-4b7e-9cbf-791e95916c3d.png" width="800" height="400"/>
+
+A [Lambda layer](https://aws.amazon.com/blogs/compute/using-lambda-layers-to-simplify-your-development-process/) is an archive containing additional code, such as libraries, dependencies, or even custom runtimes. When you include a layer in a function, the contents are extracted to the /opt directory in the execution environment.
+
+
+
+Serverless developers frequently import libraries and dependencies into their AWS Lambda functions. While you can zip these dependencies as part of the build and deployment process, in many cases it’s easier to use layers instead. In this post, I explain how layers work, and how you can build and include layers in your own applications.
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
 https://www.youtube.com/watch?v=X7Ji2UwRCKI
