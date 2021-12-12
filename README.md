@@ -132,7 +132,7 @@ To increase the lambda timeout setting, complete the following steps
 3. Select "Create a new role with basic Lambda Permissions" on default execution role
 4. Click on Create function.
 
-<img src="https://user-images.githubusercontent.com/69978184/145731890-76fe61bf-792e-44aa-acfd-50a7fea82793.png" width="1000" height="300"/>
+<img src="https://user-images.githubusercontent.com/69978184/145731890-76fe61bf-792e-44aa-acfd-50a7fea82793.png" width="1000" height="400"/>
 
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
