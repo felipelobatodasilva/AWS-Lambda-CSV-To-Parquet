@@ -92,7 +92,7 @@ To create a Lambda layer, complete the following steps
 4. For Compatible runtimes, choose Python 3.6.
 5. Click on Create.
 
-<img src="https://user-images.githubusercontent.com/69978184/145730774-a0bf70c6-f088-4c4c-b2e3-962e396b15f8.png" width="600" height="400"/>
+<img src="https://user-images.githubusercontent.com/69978184/145730774-a0bf70c6-f088-4c4c-b2e3-962e396b15f8.png" width="400" height="400"/>
 
 
 
