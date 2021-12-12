@@ -75,9 +75,9 @@ Once you've already accessed the Lambda section, you must click on layers which 
 
 A [Lambda layer](https://aws.amazon.com/blogs/compute/using-lambda-layers-to-simplify-your-development-process/) is an archive containing additional code, such as libraries, dependencies, or even custom runtimes. When you include a layer in a function, the contents are extracted to the /opt directory in the execution environment.
 
+<img src="https://user-images.githubusercontent.com/69978184/145729578-b04030cb-6ff0-4956-a431-cf11defd3b92.png" width="800" height="400"/>
 
 
-Serverless developers frequently import libraries and dependencies into their AWS Lambda functions. While you can zip these dependencies as part of the build and deployment process, in many cases it’s easier to use layers instead. In this post, I explain how layers work, and how you can build and include layers in your own applications.
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
 https://www.youtube.com/watch?v=X7Ji2UwRCKI
