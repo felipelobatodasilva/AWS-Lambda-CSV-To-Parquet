@@ -79,8 +79,9 @@ Once you've already accessed the Lambda section, you must click on layers which 
 
 <img src="https://user-images.githubusercontent.com/69978184/145729461-9c11b1e3-a45b-4b7e-9cbf-791e95916c3d.png" width="800" height="400"/>
 
+then click on "Create layers"
 
-<img src="https://user-images.githubusercontent.com/69978184/145729578-b04030cb-6ff0-4956-a431-cf11defd3b92.png" width="800" height="400"/>
+<img src="https://user-images.githubusercontent.com/69978184/145729814-e7d092ae-d538-4087-9e4d-6f6180cc9698.png" width="800" height="400"/>
 
 
 <!-- 
