@@ -148,11 +148,12 @@ To add appropriate permissions for this Lambda function to read and write Amazon
 2. On the AWS Identity and Access Management (IAM) console, click on Policies
 3. Click on Create Policy.
 4. On the JSON tab, enter the following policy (replace the target bucket name arn:aws:s3:::lambdaconvertion* with your own bucket name).
-5. Click on Next Tags
-6. Click on Next Review
-7. Give a name to your new policy; for example, lambda-s3-CSV-to-Parquet
-8. To finish up, click on Create policy
-9. On policies section on the search field, look for the recent policy created
+<img src="https://user-images.githubusercontent.com/69978184/145733057-af9ca04a-69b5-4ef3-a021-31a0e89202b0.png" width="600" height="400"/><br/>
+6. Click on Next Tags
+7. Click on Next Review
+8. Give a name to your new policy; for example, lambda-s3-CSV-to-Parquet
+9. To finish up, click on Create policy
+10. On policies section on the search field, look for the recent policy created
 
 <!-- {
     "Version": "2012-10-17",
@@ -173,8 +174,6 @@ To add appropriate permissions for this Lambda function to read and write Amazon
 }
 -->
 
-<img src="https://user-images.githubusercontent.com/69978184/145733057-af9ca04a-69b5-4ef3-a021-31a0e89202b0.png" width="600" height="400"/>
-<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145733116-0971b056-0a70-4615-8dff-6955e28c810f.png" width="600" height="400"/>
 <br/>
 <img src="https://user-images.githubusercontent.com/69978184/145733142-1a3f4c95-b35c-4b99-9bd5-cad313ac9c9a.png" width="600" height="400"/>
