@@ -189,7 +189,7 @@ To add appropriate permissions for this Lambda function to read and write Amazon
 
 You've got to go through AWS Console Management and click on S3 or look for S3 to get started.
 
-There will be many different buckets, perhaps. Select "lambdaconvertion"
+There will be many different buckets, perhaps. Select "lambdaconvertion" and create to folders which their numbers are input and output, respectively
 
 <img src="https://user-images.githubusercontent.com/69978184/145734423-f54f6a8d-53dd-44e7-a43d-cfacf15b9c06.png" width="800" height="600"/>
 
