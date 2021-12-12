@@ -187,6 +187,12 @@ To add appropriate permissions for this Lambda function to read and write Amazon
 
 ### Checking Files in S3 for transformation <a name="checkingfilesins3"></a>
 
+You've got to go through AWS Console Management and click on S3 or look for S3 to get started.
+
+There will be many different buckets, perhaps. Select "lambdaconvertion"
+
+<img src="https://user-images.githubusercontent.com/69978184/145734423-f54f6a8d-53dd-44e7-a43d-cfacf15b9c06.png" width="1000" height="600"/>
+
 
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
