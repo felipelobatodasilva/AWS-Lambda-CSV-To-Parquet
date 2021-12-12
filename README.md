@@ -77,7 +77,7 @@ A [Lambda layer](https://aws.amazon.com/blogs/compute/using-lambda-layers-to-sim
 
 Now you have some idea about what is, let is keep setting it up.
 
-Once you've already accessed the Lambda section, you must click on layers which is on the right side
+Once you've already accessed the Lambda section, you must click on layers which is on the left side
 
 <img src="https://user-images.githubusercontent.com/69978184/145729461-9c11b1e3-a45b-4b7e-9cbf-791e95916c3d.png" width="800" height="400"/>
 
@@ -102,7 +102,7 @@ To create a Lambda layer, complete the following steps
 
 ### Creating Lambda Function <a name="creatinglambdafunction"></a>
 
-
+For this step you must click on "Functions" which is on the left side
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
 https://www.youtube.com/watch?v=X7Ji2UwRCKI
