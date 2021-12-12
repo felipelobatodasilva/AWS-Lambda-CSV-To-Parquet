@@ -136,7 +136,7 @@ To increase the lambda timeout setting, complete the following steps
 
 <img src="https://user-images.githubusercontent.com/69978184/145731942-f2fe330b-b7b1-4c1e-ac55-c8afe0d3c7f0.png" width="1000" height="600"/>
 
-<img src="https://user-images.githubusercontent.com/69978184/145731942-f2fe330b-b7b1-4c1e-ac55-c8afe0d3c7f0.png" width="400" height="400"/>
+<img src="https://user-images.githubusercontent.com/69978184/145731942-f2fe330b-b7b1-4c1e-ac55-c8afe0d3c7f0.png" width="300" height="400"/>
 
 
 
