@@ -85,11 +85,11 @@ and then, click on "Create layers"
 
 To create a Lambda layer, complete the following steps:
 
-    1. Give a name to your layer; for example, aws-data-wrangler.
-    2. Select Upload a .zip file. (This AWS Data Wrangler zip.file is shared in this repository, but if you can get the most recent version, [here](https://github.com/awslabs/aws-data-wrangler/releases) 
-    3. Click on Upload, and select the path where the zip file is
-    4. For Compatible runtimes, choose Python 3.6.
-    5. Click on Create.
+    1) Give a name to your layer; for example, aws-data-wrangler.
+    2) Select Upload a .zip file. (This AWS Data Wrangler zip.file is shared in this repository, but if you can get the most recent version, [here](https://github.com/awslabs/aws-data-wrangler/releases) 
+    3) Click on Upload, and select the path where the zip file is
+    4) For Compatible runtimes, choose Python 3.6.
+    5) Click on Create.
 
 
 <!-- 
