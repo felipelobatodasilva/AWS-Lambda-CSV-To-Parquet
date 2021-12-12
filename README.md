@@ -145,7 +145,26 @@ To add appropriate permissions for this Lambda function to read and write Amazon
 
 1. On the permission table, under Permissions, click on "conversion-csv-to-parquet-role-jnui0vec" to be redirected to IAM roles for that Role Name
 2. On the AWS Identity and Access Management (IAM) console, click on Policies
-3. Click on Save.
+3. Click on Create Policy.
+4. On the JSON tab, enter the following policy (replace the target bucket name arn:aws:s3:::lambdaconvertion* with your own bucket name).
+
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "s3:GetObject",
+                "s3:PutObject",
+                "s3:ListBucket"
+            ],
+            "Resource": [
+                "arn:aws:s3:::lambdaconvertion",
+                "arn:aws:s3:::lambdaconvertion/*"
+            ]
+        }
+    ]
+}
 
 <img src="https://user-images.githubusercontent.com/69978184/145732720-2296e346-0164-4e02-9d45-4eda91853683.png" width="1000" height="400"/>
 
