@@ -137,8 +137,7 @@ To increase the lambda timeout setting, complete the following steps
 
 <img src="https://user-images.githubusercontent.com/69978184/145732117-d1c2073b-2e40-4fb8-91a4-e292edf04017.png" width="400" height="400"/>
 
-
-
+<img src="https://user-images.githubusercontent.com/69978184/145732162-105bd5f5-2fc5-43b8-a22d-baaa1b0a2e17.png" width="1000" height="600"/>
 
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
