@@ -7,6 +7,8 @@
 ● [Using Lambda On Your Local Machine](#usinglambda)<br/>
 &emsp;◌ [AWS Toolkit for Visual Studio Code](#awstoolkit)<br/>
 
+● [Using Lambda in AWS Console](#lambdaconsole)<br/>
+
 ## Overview <a name="overview"></a>
 
 [__Lambda__](https://www.dynatrace.com/news/blog/what-is-aws-lambda-2/) -> What is AWS Lambda?
@@ -58,6 +60,7 @@ For this project has been decided to use three libraries, which are:
 
 <img src="https://user-images.githubusercontent.com/69978184/144774523-0083e9ab-dd44-4761-9e8e-a59d6f9b49ea.png" width="600" height="400"/>
 
+## Using Lambda in AWS Console <a name="lambdaconsole"></a>
 
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
