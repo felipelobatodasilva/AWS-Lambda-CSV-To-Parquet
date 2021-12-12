@@ -149,8 +149,8 @@ To add appropriate permissions for this Lambda function to read and write Amazon
 3. Click on Create Policy.
 4. On the JSON tab, enter the following policy (replace the target bucket name arn:aws:s3:::lambdaconvertion* with your own bucket name).
 <img src="https://user-images.githubusercontent.com/69978184/145733057-af9ca04a-69b5-4ef3-a021-31a0e89202b0.png" width="600" height="400"/><br/>
-5. Click on Next Tags
-6. Click on Next Review
+5. Click on Next Tags<br/>
+6. Click on Next Review<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145733116-0971b056-0a70-4615-8dff-6955e28c810f.png" width="600" height="400"/><br/>
 7. Give a name to your new policy; for example, lambda-s3-CSV-to-Parquet
 8. To finish up, click on Create policy
