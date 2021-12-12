@@ -9,6 +9,8 @@
 
 ● [Using Lambda in AWS Console](#lambdaconsole)<br/>
 &emsp;◌ [Settig up Layers](#settinguplayers)<br/>
+&emsp;◌ [Creating Lambda Function](#creatinglambdafunction)<br/>
+
 
 ## Overview <a name="overview"></a>
 
