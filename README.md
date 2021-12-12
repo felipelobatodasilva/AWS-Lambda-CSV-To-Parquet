@@ -83,6 +83,14 @@ and then, click on "Create layers"
 
 <img src="https://user-images.githubusercontent.com/69978184/145729882-e87864a2-1def-41c7-81de-ed894c322117.png" width="800" height="400"/>
 
+To create a Lambda layer, complete the following steps:
+
+    1. Give a name to your layer; for example, aws-data-wrangler.
+    2. Select Upload a .zip file. (This AWS Data Wrangler zip.file is shared in this repository, but if you can get the most recent version, [here](https://github.com/awslabs/aws-data-wrangler/releases) 
+    3. Click on Upload, and select the path where the zip file is
+    4. For Compatible runtimes, choose Python 3.6.
+    5. Click on Create.
+
 
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
