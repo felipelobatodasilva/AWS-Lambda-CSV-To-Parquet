@@ -96,6 +96,7 @@ To create a Lambda layer, complete the following steps
 
 <img src="https://user-images.githubusercontent.com/69978184/145730818-e68db881-2e59-4acc-85b7-bff22eb36736.png" width="1000" height="400"/>
 
+<img src="https://user-images.githubusercontent.com/69978184/145730861-8aaf878f-9514-42b2-bfd4-c127961408f7.png" width="1000" height="400"/>
 
 
 <!-- 
