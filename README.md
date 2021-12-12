@@ -173,6 +173,8 @@ To add appropriate permissions for this Lambda function to read and write Amazon
 
 <img src="https://user-images.githubusercontent.com/69978184/145733116-0971b056-0a70-4615-8dff-6955e28c810f.png" width="600" height="400"/>
 
+<img src="https://user-images.githubusercontent.com/69978184/145733142-1a3f4c95-b35c-4b99-9bd5-cad313ac9c9a.png" width="600" height="400"/>
+
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
 https://www.youtube.com/watch?v=X7Ji2UwRCKI
