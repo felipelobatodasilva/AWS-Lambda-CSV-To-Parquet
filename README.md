@@ -155,8 +155,9 @@ To add appropriate permissions for this Lambda function to read and write Amazon
 7. Give a name to your new policy; for example, lambda-s3-CSV-to-Parquet<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145733142-1a3f4c95-b35c-4b99-9bd5-cad313ac9c9a.png" width="600" height="400"/>
 <br/>
-8. To finish up, click on Create policy
-9. On policies section on the search field, look for the recent policy created
+8. To finish up, click on Create policy<br/>
+9. On policies section on the search field, look for the recent policy created<br/>
+<img src="https://user-images.githubusercontent.com/69978184/145733406-b945e834-5fc5-4db1-af9c-32f1c339ba10.png" width="600" height="400"/>
 
 <!-- {
     "Version": "2012-10-17",
@@ -177,7 +178,6 @@ To add appropriate permissions for this Lambda function to read and write Amazon
 }
 -->
 
-<img src="https://user-images.githubusercontent.com/69978184/145733406-b945e834-5fc5-4db1-af9c-32f1c339ba10.png" width="600" height="400"/>
 
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
