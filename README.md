@@ -106,8 +106,9 @@ For this step you must click on "Functions" which is on the left side
 
 <img src="https://user-images.githubusercontent.com/69978184/145731091-e219edec-b0c8-42e1-af8e-dc461383b650.png" width="800" height="400"/>
 
+and then, click on "Create function"
 
-
+<img src="https://user-images.githubusercontent.com/69978184/145731207-4d0e833d-6f06-40bf-b84a-3aeaa96e9c6f.png" width="1000" height="400"/>
 
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
