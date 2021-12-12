@@ -11,6 +11,7 @@
 &emsp;◌ [Settig up Layers](#settinguplayers)<br/>
 &emsp;◌ [Creating Lambda Function](#creatinglambdafunction)<br/>
 &emsp;◌ [Adding Permissions to Lambda](#addingpermissionstolambda)<br/>
+&emsp;◌ [Checking Files in S3 for transformation](#checkingfilesins3)<br/>
 
 ## Overview <a name="overview"></a>
 
@@ -183,6 +184,8 @@ To add appropriate permissions for this Lambda function to read and write Amazon
     ]
 }
 -->
+
+### Checking Files in S3 for transformation <a name="checkingfilesins3"></a>
 
 
 <!-- 
