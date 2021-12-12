@@ -194,9 +194,9 @@ To check files in s3, complete the following steps:
 1. Select "lambdaconvertion" bucket<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145734423-f54f6a8d-53dd-44e7-a43d-cfacf15b9c06.png" width="800" height="600"/><br/>
 2. Create input folder in the "lambdaconvertion" bucket<br/>
-<img src="https://user-images.githubusercontent.com/69978184/145734537-45a84946-6b3b-420a-b6b5-2b27238324c0.png" width="600" height="400"/>
+<img src="https://user-images.githubusercontent.com/69978184/145734537-45a84946-6b3b-420a-b6b5-2b27238324c0.png" width="600" height="400"/><br/>
 3. Create output folder in the "lambdaconvertion" bucket<br/>
-<img src="https://user-images.githubusercontent.com/69978184/145734575-af7298b4-b87c-44c9-8ff2-fcad5ce576c2.png" width="600" height="400"/>
+<img src="https://user-images.githubusercontent.com/69978184/145734575-af7298b4-b87c-44c9-8ff2-fcad5ce576c2.png" width="600" height="400"/><br/>
 
 
 
