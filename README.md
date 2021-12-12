@@ -141,6 +141,14 @@ To increase the lambda timeout setting, complete the following steps
 
 ### Adding Permissions to Lambda <a name="addingpermissionstolambda"></a>
 
+To add appropriate permissions for this Lambda function to read and write Amazon S3 objects, complete the following steps:
+
+1. On the permission table, under Permissions, click on "conversion-csv-to-parquet-role-jnui0vec" to be redirected to IAM roles for that Role Name
+2. On the AWS Identity and Access Management (IAM) console, click on Policies
+3. Click on Save.
+
+<img src="https://user-images.githubusercontent.com/69978184/145732720-2296e346-0164-4e02-9d45-4eda91853683.png" width="1000" height="600"/>
+
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
 https://www.youtube.com/watch?v=X7Ji2UwRCKI
