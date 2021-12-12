@@ -115,10 +115,11 @@ To create a Lambda function and trigger an Amazon S3 event, complete the followi
 1. Give a name to your function; for example, conversion-csv-to-parquet.
 2. For Runtime, choose Python 3.6.
 3. Select "Create a new role with basic Lambda Permissions" on default execution role
-4. For Compatible runtimes, choose Python 3.6.
-5. Click on Create.
+4. Click on Create function.
 
 <img src="https://user-images.githubusercontent.com/69978184/145731382-fecd87da-3db0-4987-83b0-4554931088bc.png" width="1000" height="600"/>
+
+<img src="https://user-images.githubusercontent.com/69978184/145731621-6d5a7d03-5f02-4883-b921-56f6632ef1fe.png" width="1000" height="600"/>
 
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
