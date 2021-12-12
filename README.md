@@ -161,6 +161,9 @@ To add appropriate permissions for this Lambda function to read and write Amazon
 10. Click on it<br/>
 11. Click on Policy usage and then on attach<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145733821-b66c3555-88bb-4274-985c-19e56a54b2c5.png" width="600" height="400"/>
+11. Select the role and click on Attach policy<br/>
+![image](https://user-images.githubusercontent.com/69978184/145733878-8f9e80a0-3a29-4994-abb7-dc71477336e5.png)
+
 
 <!-- {
     "Version": "2012-10-17",
