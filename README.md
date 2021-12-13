@@ -202,7 +202,7 @@ To test the code in lambda, complete the following steps:
 4. Click on Test again and a new tab will be opened with the result from this test<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145736371-7801380d-6ca3-4941-8e28-aa1a58fc836b.png" width="1000" height="500"/><br/>
 5. Add a Layer to the Lambda function by clicking on Add a layer<br/>
-<img src="https://user-images.githubusercontent.com/69978184/145735941-3c70c619-77a1-4173-b630-caeecd61d2a7.png" width="1000" height="500"/><br/>
+<img src="https://user-images.githubusercontent.com/69978184/145738677-b633c283-4870-4f03-987e-6aae3bb8e6b1.png" width="1000" height="500"/><br/>
 6. After adjusting the configurations, click on Add<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145736069-73522296-d4cb-4ff7-9dbd-feb9a0151e62.png" width="400" height="400"/><br/>
 7. Click on Deploy to make the file available<br/>
