@@ -11,7 +11,7 @@
 &emsp;◌ [Settig up Layers](#settinguplayers)<br/>
 &emsp;◌ [Creating Lambda Function](#creatinglambdafunction)<br/>
 &emsp;◌ [Adding Permissions to Lambda](#addingpermissionstolambda)<br/>
-&emsp;◌ [Checking Files in S3 for transformation](#checkingfilesins3)<br/>
+&emsp;◌ [Creating Folders in S3 for transformation](#checkingfilesins3)<br/>
 &emsp;◌ [Creating and Running Script for transformation](#scriptfortransformation)<br/>
 
 ## Overview <a name="overview"></a>
@@ -172,7 +172,7 @@ To add appropriate permissions for this Lambda function to read and write Amazon
 }
 -->
 
-### Checking Files in S3 for transformation <a name="checkingfilesins3"></a>
+### Checking Folders in S3 for transformation <a name="checkingfilesins3"></a>
 
 You've got to go through AWS Console Management and click on S3 or look for S3 to get started.
 
