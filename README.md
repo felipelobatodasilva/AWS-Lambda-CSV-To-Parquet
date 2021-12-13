@@ -205,10 +205,7 @@ To test the code in lambda, complete the following steps:
 6. After adjusting the configurations, click on Add<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145736069-73522296-d4cb-4ff7-9dbd-feb9a0151e62.png" width="400" height="400"/><br/>
 7. Click on Deploy to make the file available<br/>
-<img src="https://user-images.githubusercontent.com/69978184/145735832-c7bc9743-6dc9-4060-a987-c01a9e644c2e.png" width="1000" height="500"/><br/>
-
-
-
+<img src="https://user-images.githubusercontent.com/69978184/145736436-e94170af-23cb-4552-9200-ef5ff0ecdf75.png" width="1000" height="500"/><br/>
 
 
 <!-- 
