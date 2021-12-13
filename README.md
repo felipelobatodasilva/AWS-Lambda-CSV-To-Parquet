@@ -194,7 +194,7 @@ Access Lambda section, and click on Code tab to enter your code
 To test the code in lambda, complete the following steps:
 1. Click on Test<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145735395-c2a082d0-ca78-4fe6-b03f-1d1231fca374.png" width="800" height="500"/><br/>
-2. Give a name to this test event
+2. Give a name to this test event<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145735523-886cac0f-38f6-4a5e-880c-9434a9ac03f7.png" width="400" height="400"/><br/>
 
 <!-- 
