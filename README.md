@@ -12,7 +12,7 @@
 &emsp;◌ [Creating Lambda Function](#creatinglambdafunction)<br/>
 &emsp;◌ [Adding Permissions to Lambda](#addingpermissionstolambda)<br/>
 &emsp;◌ [Checking Files in S3 for transformation](#checkingfilesins3)<br/>
-&emsp;◌ [Creating Script for transformation](#scriptfortransformation)<br/>
+&emsp;◌ [Creating and Running Script for transformation](#scriptfortransformation)<br/>
 
 ## Overview <a name="overview"></a>
 
@@ -187,7 +187,7 @@ To check files in s3, complete the following steps:
 4. Upload CSV file into input folder<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145734739-f195d5bf-805d-4abe-984c-a47f464a93fb.png" width="600" height="400"/><br/>
 
-### Creating Script for transformation <a name="scriptfortransformation"></a>
+### Creating and Running Script for transformation <a name="scriptfortransformation"></a>
 
 Access Lambda section, and click on Code tab to enter your code
 
