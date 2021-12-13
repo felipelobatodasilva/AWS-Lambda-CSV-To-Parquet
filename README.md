@@ -189,6 +189,11 @@ To check files in s3, complete the following steps:
 
 ### Creating Script for transformation <a name="scriptfortransformation"></a>
 
+Access Lambda section, and click on Code tab to enter your code
+
+<img src="https://user-images.githubusercontent.com/69978184/145735395-c2a082d0-ca78-4fe6-b03f-1d1231fca374.png" width="600" height="400"/><br/>
+
+
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
 https://www.youtube.com/watch?v=X7Ji2UwRCKI
