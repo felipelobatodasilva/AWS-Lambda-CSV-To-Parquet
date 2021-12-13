@@ -216,7 +216,7 @@ To check files in s3, complete the following steps:
 <img src="https://user-images.githubusercontent.com/69978184/145736820-0c342029-dfb2-49f1-b219-178c5c4e7135.png" width="1000" height="500"/><br/>
 2. Select "output/" folder
 <img src="https://user-images.githubusercontent.com/69978184/145736903-ad4960c3-fae7-47af-af39-e96aad2242cb.png" width="1000" height="500"/><br/>
-
+3. Be happy your file is over there :)
 
 
 
