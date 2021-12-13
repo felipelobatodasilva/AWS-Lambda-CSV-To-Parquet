@@ -191,7 +191,7 @@ To check files in s3, complete the following steps:
 
 Access Lambda section, and click on Code tab to enter your code
 
-<img src="https://user-images.githubusercontent.com/69978184/145735395-c2a082d0-ca78-4fe6-b03f-1d1231fca374.png" width="1000" height="400"/><br/>
+<img src="https://user-images.githubusercontent.com/69978184/145735395-c2a082d0-ca78-4fe6-b03f-1d1231fca374.png" width="800" height="500"/><br/>
 
 
 <!-- 
