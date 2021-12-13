@@ -113,18 +113,13 @@ and then, click on "Create function"
 
 To create a Lambda function and trigger an Amazon S3 event, complete the following steps:
 
-1. Give a name to your function; for example, conversion-csv-to-parquet.
-2. For Runtime, choose Python 3.6.
-3. Select "Create a new role with basic Lambda Permissions" on default execution role
-4. Click on Create function.
-
-<img src="https://user-images.githubusercontent.com/69978184/145731382-fecd87da-3db0-4987-83b0-4554931088bc.png" width="1000" height="600"/>
-
-<img src="https://user-images.githubusercontent.com/69978184/145731621-6d5a7d03-5f02-4883-b921-56f6632ef1fe.png" width="1000" height="600"/>
-
-<img src="https://user-images.githubusercontent.com/69978184/145731675-f3876ff5-175e-4b57-ae35-bc283ceb97aa.png" width="1000" height="600"/>
-
-<img src="https://user-images.githubusercontent.com/69978184/145731722-a54a1648-e3ad-4781-9525-59ec95d720b2.png" width="1000" height="300"/>
+1. Give a name to your function; for example, conversion-csv-to-parquet.<br/>
+<img src="https://user-images.githubusercontent.com/69978184/145731382-fecd87da-3db0-4987-83b0-4554931088bc.png" width="1000" height="600"/><br/>
+2. For Runtime, choose Python 3.6.<br/>
+<img src="https://user-images.githubusercontent.com/69978184/145731621-6d5a7d03-5f02-4883-b921-56f6632ef1fe.png" width="1000" height="600"/><br/>
+5. Select "Create a new role with basic Lambda Permissions" on default execution role<br/>
+6. Click on Create function.<br/>
+<img src="https://user-images.githubusercontent.com/69978184/145731722-a54a1648-e3ad-4781-9525-59ec95d720b2.png" width="1000" height="300"/><br/>
 
 To increase the lambda timeout setting, complete the following steps
 
