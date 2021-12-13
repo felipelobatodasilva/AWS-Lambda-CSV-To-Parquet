@@ -13,6 +13,7 @@
 &emsp;◌ [Adding Permissions to Lambda](#addingpermissionstolambda)<br/>
 &emsp;◌ [Creating Folders in S3 for transformation](#creatingfoldersins3)<br/>
 &emsp;◌ [Creating and Running Script for transformation](#scriptfortransformation)<br/>
+&emsp;◌ [Checking Generated files in S3](#checkingfiles)<br/>
 
 ## Overview <a name="overview"></a>
 
@@ -206,6 +207,8 @@ To test the code in lambda, complete the following steps:
 <img src="https://user-images.githubusercontent.com/69978184/145736069-73522296-d4cb-4ff7-9dbd-feb9a0151e62.png" width="400" height="400"/><br/>
 7. Click on Deploy to make the file available<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145736436-e94170af-23cb-4552-9200-ef5ff0ecdf75.png" width="1000" height="500"/><br/>
+
+### Checking Generated files in S3 <a name="checkingfiles"></a>
 
 
 <!-- 
