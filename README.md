@@ -89,17 +89,14 @@ and then, click on "Create layers"
 
 To create a Lambda layer, complete the following steps
 
-1. Give a name to your layer; for example, aws-data-wrangler.
-2. Select Upload a .zip file. (This AWS Data Wrangler zip.file is shared in this repository, but if you can get the most recent version, [here](https://github.com/awslabs/aws-data-wrangler/releases) 
-3. Click on Upload, and select the path where the zip file is
-4. For Compatible runtimes, choose Python 3.6.
-5. Click on Create.
-
-<img src="https://user-images.githubusercontent.com/69978184/145730774-a0bf70c6-f088-4c4c-b2e3-962e396b15f8.png" width="400" height="400"/>
-
-<img src="https://user-images.githubusercontent.com/69978184/145730818-e68db881-2e59-4acc-85b7-bff22eb36736.png" width="1000" height="400"/>
-
-<img src="https://user-images.githubusercontent.com/69978184/145730861-8aaf878f-9514-42b2-bfd4-c127961408f7.png" width="1000" height="400"/>
+1. Give a name to your layer; for example, aws-data-wrangler.<br/>
+<img src="https://user-images.githubusercontent.com/69978184/145730774-a0bf70c6-f088-4c4c-b2e3-962e396b15f8.png" width="400" height="400"/><br/>
+2. Select Upload a .zip file. (This AWS Data Wrangler zip.file is shared in this repository, but if you can get the most recent version, [here](https://github.com/awslabs/aws-data-wrangler/releases) <br/>
+3. Click on Upload, and select the path where the zip file is<br/>
+4. For Compatible runtimes, choose Python 3.6.<br/>
+5. Click on Create.<br/>
+<img src="https://user-images.githubusercontent.com/69978184/145730818-e68db881-2e59-4acc-85b7-bff22eb36736.png" width="1000" height="400"/><br/>
+<img src="https://user-images.githubusercontent.com/69978184/145730861-8aaf878f-9514-42b2-bfd4-c127961408f7.png" width="1000" height="400"/><br/>
 
 ### Creating Lambda Function <a name="creatinglambdafunction"></a>
 
