@@ -199,13 +199,14 @@ To test the code in lambda, complete the following steps:
 3. Click on Create<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145735588-0c25c6e3-589c-4b8c-9ae5-12411cb25695.png" width="1000" height="500"/><br/>
 4. Click on Test again and a new tab will be opened with the result from this test<br/>
-<img src="https://user-images.githubusercontent.com/69978184/145736206-d8a36d9d-826d-4d58-98ea-74d219e66c4e.png" width="1000" height="500"/><br/>
+<img src="https://user-images.githubusercontent.com/69978184/145736371-7801380d-6ca3-4941-8e28-aa1a58fc836b.png" width="1000" height="500"/><br/>
 5. Add a Layer to the Lambda function by clicking on Add a layer<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145735941-3c70c619-77a1-4173-b630-caeecd61d2a7.png" width="1000" height="500"/><br/>
 6. After adjusting the configurations, click on Add<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145736069-73522296-d4cb-4ff7-9dbd-feb9a0151e62.png" width="400" height="400"/><br/>
 7. Click on Deploy to make the file available<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145735832-c7bc9743-6dc9-4060-a987-c01a9e644c2e.png" width="1000" height="500"/><br/>
+
 
 
 
