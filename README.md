@@ -8,7 +8,7 @@
 &emsp;◌ [AWS Toolkit for Visual Studio Code](#awstoolkit)<br/>
 
 ● [Using Lambda in AWS Console](#lambdaconsole)<br/>
-&emsp;◌ [Settig up Layers](#settinguplayers)<br/>
+&emsp;◌ [Setting up Layers](#settinguplayers)<br/>
 &emsp;◌ [Creating Lambda Function](#creatinglambdafunction)<br/>
 &emsp;◌ [Adding Permissions to Lambda](#addingpermissionstolambda)<br/>
 &emsp;◌ [Creating Folders in S3 for transformation](#creatingfoldersins3)<br/>
