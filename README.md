@@ -196,8 +196,10 @@ To test the code in lambda, complete the following steps:
 <img src="https://user-images.githubusercontent.com/69978184/145735395-c2a082d0-ca78-4fe6-b03f-1d1231fca374.png" width="800" height="500"/><br/>
 2. Give a name to this test event<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145735523-886cac0f-38f6-4a5e-880c-9434a9ac03f7.png" width="400" height="400"/><br/>
-3. Click on Create
+3. Click on Create<br/>
 <img src="https://user-images.githubusercontent.com/69978184/145735588-0c25c6e3-589c-4b8c-9ae5-12411cb25695.png" width="400" height="400"/><br/>
+4. Cick on Test again and a new tab will be opened with the result from this test
+
 
 <!-- 
 https://aws-dojo.com/excercises/excercise34/
