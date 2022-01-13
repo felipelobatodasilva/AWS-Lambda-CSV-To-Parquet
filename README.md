@@ -17,10 +17,13 @@
 
 ## Overview <a name="overview"></a>
 
-[__Lambda__](https://www.dynatrace.com/news/blog/what-is-aws-lambda-2/) -> What is AWS Lambda?
+[__AWS Lambda__](https://www.dynatrace.com/news/blog/what-is-aws-lambda-2/) -> What is AWS Lambda?
 AWS Lambda is a serverless compute service that can run code in response to predetermined events or conditions and automatically manage all the computing resources required for those processes. It also enables DevOps teams to connect to any number of AWS services or run their own functions.
 
 Organizations are realizing the cost savings and management benefits of serverless automation. But with the benefits also come concerns about observability, and how to monitor and manage ever-expanding cloud software stacks.
+
+[__AWS Data Wrangler__](https://aws-data-wrangler.readthedocs.io/en/stable/what.html) -> What is AWS Data Wrangler??
+An AWS Professional Service open source python initiative that extends the power of Pandas library to AWS connecting DataFrames and AWS data related services.
 
 ## Using Lambda On Your Local Machine <a name="usinglambda"></a>
 
